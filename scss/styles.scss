@@ -365,7 +365,7 @@ footer {
     text-align: center;
 
     h1, h2 {
-        margin: 0;
+        margin: 15;
     }
 
     h1 {
@@ -379,7 +379,7 @@ footer {
     h2 {
         color: lighten($base-color, 25%);
         font-weight: 500;
-        font-size: 2.25em;
+        font-size: 1.3em;
         margin-bottom: 15px;
     }
 }
